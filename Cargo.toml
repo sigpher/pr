@@ -1,3 +1,3 @@
 [workspace]
 resolver = "3"
-members = ["ch03_fundamental_types"]
+members = ["ch03_fundamental_types", "ch05_references"]
